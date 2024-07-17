@@ -1,0 +1,236 @@
+[
+    {
+        "name": "Better-anime",
+        "prompt": "in Detailed anime style {prompt} trendy anime illustration. meticulous anime drawing, ultra-high resolution anime with intricate textures, accentuating the subject, dynamic composition with a sense of movement and energy, trending on Pixiv",
+        "negative_prompt": "noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality , (Unreal, 3d render, realistic)"
+    },
+    {
+        "name": "Better art",
+        "prompt": "(modern masterpiece), Digital Painting of {prompt} . (masterpiece art, modern art), Aesthetic art , intricately detailed masterpiece art",
+        "negative_prompt": "Text, lack of detail"
+    },
+    {
+        "name": "makoto-shinkai",
+        "prompt": "in makoto shinkai's style {prompt} , (textured shading, variations, anime outline, anime), with amazing quality and intricate attention to detail,(weathering, hard highlights, mix of anime illustration and realism), sharp anime quality. detailed background,((Texture Imperfection)), Distressing background, (flat makoto shinkai anime style, High Detail anime illustration)",
+        "negative_prompt": "noisy, blurry, 3d, realistic, disfigured, low contrast, overexposed, deformities, distorted, 3d, soft shaded, soft shading, blur, artifacts, soft shading "
+    },
+    {
+        "name": "Realistic",
+        "prompt": "Realistic depiction of {prompt}. Photorealistic details and textures, capturing the essence of reality. Natural lighting and shadows, with true-to-life proportions and perspectives. Subtle and nuanced colors, creating a lifelike and immersive experience. High-resolution clarity, extraordinarily detailed, and visually stunning",
+        "negative_prompt": "noisy, blurry, 3d, disfigured, low contrast, overexposed, oversaturated , smooth, cartoon, unrealistic, ugly, normal, art "
+    },
+    {
+        "name": "Better-human",
+        "prompt": "perfect Anatomically correct body of {prompt} , perfect face, (perfect body, ideal human body), clear body ",
+        "negative_prompt": "noisy, blurry, 3d, disfigured, low contrast, overexposed, oversaturated ,  smooth, bad anatomy, bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities)"
+    },
+    {
+        "name": "greg-rutkowski",
+        "prompt": "Concept art by greg rutkowski style {prompt} , with greg rutkowski's creative art, High detail, painting texture, greg rutkowski Aesthetic, masterpiece, Aesthetic ",
+        "negative_prompt": "noisy, blurry, disfigured, overexposed, oversaturated, text, watermark, ( bad anatomy, bad face, disfigured) "
+    },
+    {
+        "name": "flat-anime",
+        "prompt": "flat anime artwork of {prompt} . (flat 2d anime, cell shaded anime. deatiled anime, crisp anime style, very detailed illustrations). (anime drawing, anime highly detailed, Aesthetic anime)  , trending on pixiv ",
+        "negative_prompt": "(3d render), bad quality, disfigured, bad anatomy, (plastic, Unreal, 3d render, realistic: 1.5), (bad anatomy, bad face, disfigured: 1.3) "
+    },
+    {
+        "name": "Negetive Prompt",
+        "negative_prompt": "blurry, low quality, watermarks, watermarks, out of frame, jpeg artifacts, bad anatomy, noise, low resolution, (((jpeg artifacts, blurry))),  "
+    },
+    {
+        "name": "Painterly Anime",
+        "prompt": "in style of Painterly anime art of {prompt} . (high resolution anime . texture, extremely detailed, Painterly style anime), glossy anime,  multi shaded flat anime, trending on pixiv ",
+        "negative_prompt": "noisy, blurry, 3d, disfigured, warm, hard light, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality, (Unreal, 3d render, hot colors, realistic: 1.5) "
+    },
+    {
+        "name": "studio ghibli",
+        "prompt": "in a vibrant Studio Ghibli aesthetic art of {prompt} is brought to life with the signature style of Hayao Miyazaki. The scene is rich with intricate details, showcasing a Studio Ghibli aesthetic. The color palette is rich and vibrant, reminiscent of the best anime, while the high resolution and level of detail make it a true masterpiece",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality, unaestheticXLv31 , (Unreal, 3d render, realistic: 1.2), (bad anatomy, bad face, disfigured: 1.3) "
+    },
+    {
+        "name": "Old Anime",
+        "prompt": "in 90's Detailed anime artwork {prompt} , old anime, 80's anime style, intricate 90's anime style . high resolution 90's anime ",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality, unaestheticXLv31 , (Unreal, 3d render, realistic), (bad anatomy, bad face, disfigured, new anime) "
+    },
+    {
+        "name": "Neo tokyo",
+        "prompt": "in Neo tokyo style {prompt} . (Neo tokyo style), intricate ",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality , (Unreal, 3d render, realistic: 1.2), (bad anatomy, bad face, disfigured: 1.3) "
+    },
+    {
+        "name": "Ethernal",
+        "prompt": "in biblical white aesthetics style {prompt} . (white anime aesthetics, pleasant colors, soft glow, beautiful, white aesthetics, biblical white style : 1.2), intricate , (wlop, fog)",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality , (Unreal, 3d render, realistic: 1.2), (bad anatomy, bad face, disfigured: 1.3) "
+    },
+    {
+        "name": "Realistic painterly",
+        "prompt": "in Realistic painterly style art of {prompt} . (pleasant Aesthetic soft painterly colors, soft glow, (soft cool tone), beautiful, Realistic painterly illustration, Realistic painterly, (painterly texture), realistic light), intricate painterly art, highly detailed, painterly illustration, ruan jia and artgerm, wlop. (Depth and atmosphere in background, cool color scheme with blues and grays dominating the background, Gothic-style arcitecture, Brushwork, dramatic highlights and shadows, photorealistic digital painting) ",
+        "negative_prompt": "3d, disfigured, watermark, bad anatomy, bad hands, jpeg artifacts, low quality, worst quality , (Unreal, 3d render, realistic, hard color, photorealistic, (warm colors)), (bad anatomy, bad face, disfigured, blur) "
+    },
+    {
+        "name": "flat-painterly",
+        "prompt": "in flat digital Illustration style {prompt} . (flat colorful digital illustration, pleasant colors, beautiful : 1.2), intricate, highly detailed colorful illustration, rich and vibrant color palette",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, (shading, realistic), low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality, (Unreal, no outline, 3d render, realistic: 1.4), (bad anatomy, bad face, disfigured, outlines, black line: 1.3) "
+    },
+    {
+        "name": "Biopunk",
+        "prompt": "in biopunk style {prompt} , (biopunk, Grungy, Organic. Biological machinery : 1.2), intricate, rich and vibrant color palette ",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality, unaestheticXLv31 "
+    },
+    {
+        "name": "Stonepunk",
+        "prompt": "(Gritty and grand, remnants of ancient) {prompt} , (Gritty and grand, with a sense of awe and mystery, The air is thick with the dust of ages, towering structures rising), old , foggy, old stone, moss, with remnants of ancient guardians ",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality, unaestheticXLv31 "
+    },
+    {
+        "name": "Dieselpunk",
+        "prompt": "(Gritty and industrial World War One-focused civilization), {prompt} . A civilization with a constant hum of machinery, (dieselpunk, Grungy, sleek and metallic, dark and ominous civilization, metalic structure, (perfected machinery with welding lines instead of rivets), postmodern sensibilities and explorations of political ideas, taking place during the 1910s and 1940s",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry"
+    },
+    {
+        "name": "Cosmos",
+        "prompt": "in cosmic style {prompt} , (space ,star, nebula, dramatic, gas cloud : 1.2), intricate, rich and vibrant color palette ",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality, unaestheticXLv31 "
+    },
+    {
+        "name": "Modern anime",
+        "prompt": "Art of modern award winning anime {prompt} .  more refined lines",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, (realistic), low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts "
+    },
+    {
+        "name": "solarpunk",
+        "prompt": "(solarpunk), clean energy, {prompt} . High-tech backends with simple, elegant, post-apocalyptic, Jugaad-style , (ingenuity, generativity, independence), focused on sun energies, sustainability, and a brighter future",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, bad anatomy, bad hands, blurry, jpeg artifacts, low quality, worst quality "
+    },
+    {
+        "name": "lovecraftian",
+        "prompt": "A dark (lovecraftian) {prompt}. mysterious style inspired by the cosmic horror of H.P. Lovecraft.",
+        "negative_prompt": " noisy, blurry, 3d, disfigured, low contrast, watermark, blurry, jpeg artifacts, low quality, worst quality "
+    },
+    {
+        "name": "gothic",
+        "prompt": "A {prompt} embodying darkness, mystery, and the macabre, dark victorian , often with a medieval or romantic twist.",
+        "negative_prompt": " overexposed, bright, cartoonish, undefined, watermark, disproportioned, unfocused, jpeg artifacts, low quality, worst quality"
+    },
+    {
+        "name": "Pastel Anime",
+        "prompt": " (in style of Anime pastel texture, Pastel anime colors, Pastel texture), {prompt} , Pestal, (anime pastel paintng texture, flat 2d Pestal anime), vivid colors, painterly textures",
+        "negative_prompt": " low quality, worst quality, ((photorealistic)), ((3d)), render, unreal render"
+    },
+    {
+        "name": "rococo",
+        "prompt": "A {prompt} exhibiting the ornate and decorative elements of the Rococo style, with a playful and witty elegance.",
+        "negative_prompt": " minimalist, blurry, watermark, bad anatomy, unrefined, low contrast, low quality, worst quality"
+    },
+    {
+        "name": "dystopian concept art",
+        "prompt": "image about {prompt} that visualizes an oppressive feel, with a enveloping fog, obscuring the distant view, a white glow emanating from an immense, looming modern structure, casting long shadows, symbolizing the crushing weight of oppression and despair",
+        "negative_prompt": " utopian, cheerful, watermark, too optimistic, low quality, worst quality"
+    },
+    {
+        "name": "environmental concept art",
+        "prompt": "A {prompt} that portrays imaginative and detailed environments for games or movies.",
+        "negative_prompt": " undetailed, unrealistic, watermark, bad perspective, low quality, worst quality"
+    },
+    {
+        "name": "neoclassical digital fantasy",
+        "prompt": "A {prompt} that combines neoclassical architecture with a fantasy theme, characterized by grandiose structures and a warm, earthy palette.",
+        "negative_prompt": " modern, futuristic, watermark, bad proportion, lack of detail, poor lighting, low quality, worst quality"
+    },
+    {
+        "name": "Sensual",
+        "prompt": "stunning, sensual masterpiece featuring {prompt}. The image should exude passion, intimacy, and allure, with a captivating focus on the subject's sensuality. The artwork should showcase a seductive atmosphere, with a tantalizing blend of (sensual, hot body, sensual face, hot sensual pose, sensual pose) that leaves the viewer breathless and mesmerized",
+        "negative_prompt": "watermark, bad proportion, lack of detail, poor lighting, low quality, worst quality, ugly"
+    },
+    {
+        "name": "macabre",
+        "prompt": "detailed, dark and moody, {prompt} .  chiaroscuro lighting, victorian era, (Francisco Goya art), Blood and gore, Decaying flesh, Rituals , Abandoned",
+        "negative_prompt": "watermark, bad proportion, lack of detail, low quality, worst quality, happy, cute"
+    },
+    {
+        "name": "Painting",
+        "prompt": "detailed Painting, (Painting), {prompt} . surreal, Paiterly Lighting , (Caravaggio style) ",
+        "negative_prompt": "watermark, bad proportion, lack of detail, low quality, worst quality, realistic "
+    },
+    {
+        "name": "Sandalpunk",
+        "prompt": "(digital art of alternate universe where ancient civilizations have access to advanced technology), {prompt} . surreal, Middle Ages, Ancient Rome, or Ancient Greece, beautiful civilizations) ",
+        "negative_prompt": "watermark, bad proportion, lack of detail, low quality, worst quality, new technology"
+    },
+    {
+        "name": "MegaStructure",
+        "prompt": "(low camera angle of digital art of surreal Megastructure civilization Greek and Roman art and architecture), {prompt} . surreal, Middle Ages, Ancient Rome, or Ancient Greece, (remains of forgotten civilization, growth, nature) ",
+        "negative_prompt": "watermark, bad proportion, lack of detail, low quality, worst quality"
+    },
+    {
+        "name": "megacity",
+        "prompt": "(low angle, megacity with towering skyscrapers), {prompt}, fog sky is a hazy blend of smog, cyberpunk megacity, (brutalist concrete building), contrasting shadows, vibrant neon lights, detailed architecture, dynamic lighting, atmospheric mood, futuristic technology, bustling streets, intricate cityscape, striking composition, cinematic quality, immersive environment, high-resolution, sharp focus, 8K resolution, highly detailed, cinematic lighting, extreme detail, intricate details, hyperrealistic, realistic textures, photorealistic, vibrant colors, dramatic shadows, vivid colors, atmospheric depth, incredible depth, remarkable depth, stunning depth, breathtaking depth, impressive depth, great composition, perfect composition, beautiful composition, amazing composition, extraordinary composition, stunning composition, incredible composition, remarkable composition, breathtaking composition, impressive composition",
+        "negative_prompt": "watermark, bad proportion, (low detail), low quality, worst quality"
+    },
+    {
+        "name": "Masterpiece",
+        "prompt": "(masterpiece art), (creative ultra-detailed art) {prompt} , intricately detailed masterpiece art, (cinematic perfect composition, cinematic lighting with glow and glare, pleasing colors ",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality), worst quality, Oversaturated, Overexposed, Distorted, soft shading, ugly"
+    },
+    {
+        "name": "lofi art",
+        "prompt": "in flat anime art {prompt} , lofi art, anime, jagged anime style, detailed, warm lighting, blue and wam hue, rough facade, (peaceful relaxing colors), glow, soft thick black anime lines, (2d flat painterly anime) ",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality), worst quality, 3d, render, 3d shading, smooth shading"
+    },
+    {
+        "name": "howard pyle art",
+        "prompt": "(howard pyle art), {prompt} . Dramatic viewpoint, Loose and expressive, Contrasting textures, masterful composition, (painting howard pyle art) ",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality), worst quality, 3d, render, 3d shading, smooth shading"
+    },
+    {
+        "name": "Render",
+        "prompt": "3D render of {prompt} . Dramatic viewpoint, Contrasting textures, masterful composition, (3d render, unreal engine, octane render,global illumination) ",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality), worst quality, smooth shading"
+    },
+    {
+        "name": "wlop",
+        "prompt": "art in style of wlop {prompt} by wlop. (((artstyle by wlop, soft art, soft illumination, Painterly textures, cool tones, Soft focus, Luminescence, reflective, cool tones, gray and cool tones))). Hyperrealism soft painting, ((glow)), Fine detailing, (complex lighting effects), Dramatic viewpoint, soft artstyle of wlop, (wlop digital painting textures), masterful composition, soft color, small particles",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality), worst quality, ((oversaturated, high contrast))"
+    },
+    {
+        "name": "Concept Art",
+        "prompt": "Beautiful Concept Art of {prompt}. masterful art, dramatic viewpoint, masterful composition, volumatrice lighting, glow",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality), worst quality, ((oversaturated, high contrast, fat, round face, bad face, ugly face, normal))"
+    },
+    {
+        "name": "flat Blotchy art",
+        "prompt": "Beautifull flat Colourful digital art Drawing of {prompt} masterpice art, Dramatic viewpoint, masterful composition, (Without drawing lines) ",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality), worst quality, ((oversaturated, high contrast, fat, round face, bad face, ugly face, normal, Art lines))"
+    },
+    {
+        "name": "Hdr Anime art",
+        "prompt": "HDR anime artwork of {prompt} in a detailed anime illustration. (HDR lighting), Warm colours, warm tone, (painting texture Art style), (Flat 2D anime with texture painted), (Sharp thin Line), Relaxing colours and tone, (Dynamic shading), anime illustration in warm, relaxing colors and tones. The artwork is characterized by a unique blend of (painting texture Art style), (Flat 2D anime with texture painted), and (Sharp thin Line), creating a visually captivating and dynamic shading effect",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality),(oversaturated)"
+    },
+    {
+        "name": "Dynamic",
+        "prompt": "Dynamic artwork of {prompt}. with dynamic detailed artwork. dynamic lighting, dynamic camera angle, dynamic colors, aesthetically pleasing, aesthetically pleasing colors",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality),(oversaturated, simple art, normal art, static)"
+    },
+    {
+        "name": "Complex Anime",
+        "prompt": "Detailed complex anime artwork of {prompt} , with dynamic detailed artwork. complex and detailed background, detailed dynamic lighting, dynamic camera angle, dynamic colors, aesthetically pleasing, aesthetically pleasing colors, Dreamy, harmonious color palette, expressive ",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality),(oversaturated, simple art, normal art, static)"
+    },
+    {
+        "name": "Phonk Art",
+        "prompt": "Detailed colorfull artwork of {prompt} . with dynamic detailed artwork. complex and detailed background, purple and redish glow and energy flowing through everywere, purple and redish glowing energy, high dark contrast, rays, wave, high staturation,  ",
+        "negative_prompt": "watermark, bad proportion, low detail, (low quality),(simple art, normal art, static, realistic, soft, low contrast )"
+    },
+    {
+        "name": "Junji Ito",
+        "prompt": "in hyper detailed manga of {prompt} . ultra detailed manga, (detailed pencil manga art). hyper detailed manga art, (manga pencil shading, ultra detailed manga pencil shading), paper texture, pencil texture, junji ito",
+        "negative_prompt": "watermark, low detail, (low quality), realistic, soft, low contrast, color, fun, flat "
+    },
+    {
+        "name": "Matte painting",
+        "prompt": "matte painting, {prompt} matte painting illustration, oil painting, texture, ((flat matte painting)), (flat shading, hard shadow and light, matte painting texture, noise texture, grain noise texture)",
+        "negative_prompt": "watermark, text"
+    }
+    ]
