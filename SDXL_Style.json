@@ -6,8 +6,8 @@
     },
     {
         "name": "Better art",
-        "prompt": "(modern masterpiece), Digital Painting of {prompt} . (masterpiece art, modern art), Aesthetic art , intricately detailed masterpiece art",
-        "negative_prompt": "Text, lack of detail"
+        "prompt": "in Digital Painting of {prompt} . (masterpiece art, glow, bloom, detailed texture, artistic techniques, modern art), Aesthetic art , intricately detailed masterpiece art",
+        "negative_prompt": "Text, lack of detail, ugly, Bad artist, Hyperrealism"
     },
     {
         "name": "makoto-shinkai",
